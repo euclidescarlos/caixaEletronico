@@ -1,6 +1,6 @@
 # Caixa Eletrônico em Java 💰
 
-Simulador de caixa eletrônico desenvolvido em Java como projeto da disciplina de Programação Orientada a Objetos do 3º período de Análise e Desenvolvimento de Sistemas.
+Simulador de caixa eletrônico desenvolvido em Java como projeto da disciplina de Back-end Framework do 3º período de Análise e Desenvolvimento de Sistemas.
 
 ## 👥 Equipe ADS - 3º Período
 
