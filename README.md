@@ -4,7 +4,7 @@ Aplicativo mobile de Caixa Eletrônico desenvolvido em Kotlin no Android Studio 
 
 ## 👥 Equipe ADS - 3º Período
 
-- **Angelo Santos** - Matrícula: 01707596
+- **Ângelo Santos** - Matrícula: 01707596
 - **Eduardo Henrique** - Matrícula: 01706530
 - **Euclides Neto** - Matrícula: 01696172
 - **Gabriel Teixeira** - Matrícula: 01413025
