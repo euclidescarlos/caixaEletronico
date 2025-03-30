@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/titulo"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:text="Caixa Eletrônico Virtual"
+        android:textColor="#000000"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/saldoTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="30dp"
+        android:text="Saldo: R$ 1020,00"
+        android:textSize="18sp" />
+
+    <EditText
+        android:id="@+id/valorEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:hint="Digite o valor"
+        android:inputType="numberDecimal" />
+
+    <Button
+        android:id="@+id/sacarButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sacar" />
+
+    <Button
+        android:id="@+id/depositarButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Depositar" />
+
+    <Button
+        android:id="@+id/btnSair"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:backgroundTint="#473868"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="SAIR"
+        android:textStyle="bold" />
+
+
+</LinearLayout>
