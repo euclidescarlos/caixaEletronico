@@ -22,6 +22,6 @@ Aplicativo mobile de Caixa Eletrônico desenvolvido em Kotlin no Android Studio 
 
 ## 🚀 Como utilizar?
 
--> **Baixar o aplicativo Android Studio🤖**
--> ** Utilizar o 'git clone https://github.com/euclidescarlos/caixaEletronico' **
--> ** Localizar a pasta pelo aplicativo Android Studio e clicar em Run **
+- **Baixar o aplicativo Android Studio🤖**
+- ** Utilizar o 'git clone https://github.com/euclidescarlos/caixaEletronico' **
+- ** Localizar a pasta pelo aplicativo Android Studio e clicar em Run **
