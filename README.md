@@ -14,9 +14,9 @@ Aplicativo mobile de Caixa Eletrônico desenvolvido em Kotlin no Android Studio 
 
 ## 🚀 Funcionalidades
 
-- **Consulta de saldo**: Visualização do saldo atual
-- **Saque virtual**: Realização de saques 
-- **Depósito**: Adição de valores à conta 
+- **Consulta de saldo**: Visualização do saldo atual;
+- **Saque virtual**: Realização de saques;
+- **Depósito**: Adição de valores à conta;
 - **Tela de Menu**
 
 
